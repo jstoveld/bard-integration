@@ -1,0 +1,9 @@
+# Python
+venv/
+lib/
+include/
+bin/
+
+
+# config files
+pyvenv.cfg
